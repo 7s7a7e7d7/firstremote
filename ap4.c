@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("fourth4");
+	printf("fourth2");
 	return;
 }
